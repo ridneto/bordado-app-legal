@@ -7,8 +7,8 @@ Páginas legais públicas do app **Bordado** (ponto cruz), hospedadas via GitHub
 
 URLs públicas (após ativar o GitHub Pages em Settings → Pages → branch `main`):
 
-- https://ridneto.github.io/bordado-legal/privacidade.html
-- https://ridneto.github.io/bordado-legal/termos.html
+- https://ridneto.github.io/bordado-app-legal/privacidade.html
+- https://ridneto.github.io/bordado-app-legal/termos.html
 
 Essas URLs são referenciadas em `apps/mobile/src/monetization/config.ts` (`LEGAL_URLS`)
 e exigidas pela App Store/Play para a venda da assinatura auto-renovável.
