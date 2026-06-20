@@ -5,7 +5,7 @@ Páginas legais públicas do app **Bordado** (ponto cruz), hospedadas via GitHub
 - **Política de Privacidade / Privacy Policy** → [`privacidade.html`](privacidade.html)
 - **Termos de Uso / Terms of Use (EULA)** → [`termos.html`](termos.html)
 
-URLs públicas (após ativar o GitHub Pages em Settings → Pages → branch `main`):
+URLs públicas:
 
 - https://ridneto.github.io/bordado-app-legal/privacidade.html
 - https://ridneto.github.io/bordado-app-legal/termos.html
